@@ -1,11 +1,9 @@
-# Scouting Semi-Automatizado com IA
+# Semi-Automated Scouting with AI
 
-Projeto de análise de dados aplicando o conceito de Moneyball ao futebol brasileiro.
-Cruza estatísticas de desempenho e valor de mercado de jogadores pra identificar
-atletas subvalorizados e agrupar perfis de jogo.
+A data analysis project applying the Moneyball concept to Brazilian football. It crosses player performance stats with market value to identify undervalued players and group playing style profiles.
 
-## Dados
+## Data
 Football Data from Transfermarkt (Kaggle) - github.com/dcaribou/transfermarkt-datasets
 
 ## Status
-🚧 Em desenvolvimento - fase de exploração de dados
+🚧 In development - data exploration phase
