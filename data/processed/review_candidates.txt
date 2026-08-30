@@ -1,0 +1,1023 @@
+Léo Vieira (Esporte Clube Bahia)
+    → Dudu Vieira (score: 71.2)
+    → Felipe Vieira (score: 71.2)
+
+Souza (Club de Regatas Vasco da Gama)
+    → Cauly Oliveira Souza (score: 90.0)
+    → Gabriel Souza (score: 90.0)
+    → Hugo Souza (score: 90.0)
+
+Oscar (São Paulo Futebol Clube)
+    → Oscar Estupiñan (score: 90.0)
+    → Gabriel Moscardo (score: 72.0)
+
+Gil (Santos Futebol Clube)
+    → Gilberto (score: 90.0)
+
+Eduardo (Mirasol Futebol Clube)
+    → Carlos Eduardo (score: 90.0)
+    → Eduardo Melo (score: 90.0)
+    → Eduardo Santos (score: 90.0)
+
+Sérgio Oliveira (Sport Club do Recife)
+    → Cauly Oliveira Souza (score: 66.1)
+
+Cédric Soares (São Paulo Futebol Clube)
+    → Fábio Soares (score: 64.0)
+    → Everton Soares (score: 60.0)
+    → Tiquinho Soares (score: 60.0)
+
+Willian José (Esporte Clube Bahia)
+    → José Andrés Martínez (score: 85.5)
+    → José Luis Rodríguez Bebanz (score: 85.5)
+    → José Vitor Silva Neves (score: 85.5)
+
+Thiago Mendes (Club de Regatas Vasco da Gama)
+    → Nathan Mendes (score: 69.2)
+    → Douglas Mendes (score: 60.0)
+    → Matheus Mendes (score: 60.0)
+
+Marçal (S. A. F. Botafogo)
+    → Fernando Marçal (score: 90.0)
+
+Danilo (Clube de Regatas do Flamengo)
+    → Danilo Barbosa (score: 90.0)
+    → Danilo Boza (score: 90.0)
+    → Danilo Fernandes (score: 90.0)
+
+Richard Costa (Ceará Sporting Club)
+    → Diego Costa (score: 59.4)
+    → Douglas Costa (score: 53.8)
+
+Marcão (Esporte Clube Juventude)
+    → Dé Marcão (score: 90.0)
+
+Cauly (São Paulo Futebol Clube)
+    → Cauly Oliveira Souza (score: 90.0)
+
+Gabriel Pires (Mirasol Futebol Clube)
+    → Rafael Pires (score: 72.0)
+
+Andreas Pereira (Sociedade Esportiva Palmeiras)
+    → Léo Pereira (score: 73.9)
+    → Matheus Pereira (score: 66.7)
+
+Willian Arão (Santos Futebol Clube)
+    → Bruno Tubarão (score: 40.0)
+
+Rafa Silva (Mirasol Futebol Clube)
+    → Rafael Silva (score: 90.9)
+    → José Vitor Silva Neves (score: 85.5)
+    → Luan Silva (score: 70.0)
+
+Bruno (Ceará Sporting Club)
+    → Bruno Fabiano Alves (score: 90.0)
+    → Bruno Fuchs (score: 90.0)
+    → Bruno Gomes (score: 90.0)
+
+Joaquín Correa (S. A. F. Botafogo)
+    → Kaique Kenji Takamura Correa (score: 85.5)
+
+Lucas Lima (Sport Club do Recife)
+    → Lima (score: 90.0)
+    → Julimar (score: 47.1)
+
+Renzo López (Esporte Clube Vitória)
+    → José López (score: 66.7)
+
+Luiz Otávio (Ceará Sporting Club)
+    → Luis Otávio (score: 90.9)
+    → Otávio (score: 90.0)
+
+João Paulo (Santos Futebol Clube)
+    → Paulo Henrique (score: 63.3)
+    → Paulo Vitor (score: 63.3)
+
+Daniel Borges (Mirasol Futebol Clube)
+    → Marllon Borges (score: 66.7)
+    → Pedro Borges (score: 64.0)
+
+Vinícius (Fortaleza Esporte Clube)
+    → Caio Vinícius (score: 90.0)
+    → Eduardo Vinícius (score: 90.0)
+    → Igor Vinícius de Souza (score: 90.0)
+
+Fernando Miguel (Ceará Sporting Club)
+    → Miguel Trauco (score: 67.9)
+    → Luis Miguel (score: 67.1)
+    → Carlos Miguel (score: 64.3)
+
+Léo Duarte (Clube Atlético Mineiro)
+    → David Duarte (score: 71.2)
+
+Neto Moura (Mirasol Futebol Clube)
+    → Hugo Moura (score: 70.0)
+    → Lucas Moura (score: 63.3)
+
+Aylon (Ceará Sporting Club)
+    → Shaylon (score: 66.7)
+
+Emmanuel Martínez (Esporte Clube Vitória)
+    → Leandro Emmanuel Martínez (score: 95.0)
+    → José Andrés Martínez (score: 60.8)
+
+Arthur Melo (Grêmio Foot-Ball Porto Alegrense)
+    → Eduardo Melo (score: 60.9)
+    → Felipe Melo (score: 50.7)
+
+Iury Castilho (Mirasol Futebol Clube)
+    → Iury de Castilho (score: 95.0)
+
+Edu Ribeiro (Esporte Clube Vitória)
+    → Everton Ribeiro (score: 73.9)
+
+Lucas Ramon (São Paulo Futebol Clube)
+    → Ramon (score: 90.0)
+
+Juninho (Sport Club Internacional)
+    → Juninho Capixaba (score: 90.0)
+
+Arthur Cabral (S. A. F. Botafogo)
+    → Rafael Cabral (score: 60.0)
+
+Bruno Rodrigues (Cruzeiro Esporte Clube)
+    → Arthur Rodrigues (score: 77.4)
+
+Matheus Sales (Mirasol Futebol Clube)
+    → Daniel Sales (score: 64.0)
+
+Rodrigues (Mirasol Futebol Clube)
+    → Arthur Rodrigues (score: 90.0)
+
+Nuno Moreira (Club de Regatas Vasco da Gama)
+    → João Moreira (score: 75.0)
+
+Alan Rodríguez (Sport Club Internacional)
+    → José Luis Rodríguez Bebanz (score: 85.5)
+    → Emiliano Rodríguez (score: 81.2)
+    → Luciano Rodríguez (score: 77.4)
+
+Santiago Rodríguez (S. A. F. Botafogo)
+    → Luciano Rodríguez (score: 74.3)
+    → Emiliano Rodríguez (score: 72.2)
+    → James Rodríguez (score: 71.2)
+
+Félix Torres (Sport Club Internacional)
+    → Félix Torres Caicedo (score: 90.0)
+
+Gabriel Rojas (Cruzeiro Esporte Clube)
+    → Robert Rojas (score: 64.0)
+
+Carlos Cuesta (Club de Regatas Vasco da Gama)
+    → Víctor Cuesta (score: 61.5)
+
+Alexis Duarte (Santos Futebol Clube)
+    → David Duarte (score: 64.0)
+
+Julián Millán (Fluminense Football Club)
+    → Pablo Galdames Millán (score: 85.5)
+
+Val Soares (Esporte Clube Vitória)
+    → Tiquinho Soares (score: 85.5)
+    → Everton Soares (score: 71.2)
+    → Fábio Soares (score: 71.2)
+
+Kaio (S. A. F. Botafogo)
+    → Kaio Jorge (score: 90.0)
+
+Carlos Vinícius (Grêmio Foot-Ball Porto Alegrense)
+    → Caio Vinícius (score: 85.7)
+    → Eduardo Vinícius (score: 77.4)
+    → Igor Vinícius de Souza (score: 66.1)
+
+Elias (Mirasol Futebol Clube)
+    → Kauã Elias (score: 90.0)
+    → Rafael Elias (score: 90.0)
+
+Richard (Sport Club Internacional)
+    → Richard Ríos (score: 90.0)
+
+Rúben Rodrigues (Esporte Clube Vitória)
+    → Arthur Rodrigues (score: 71.2)
+
+Marco Moreno (Esporte Clube Bahia)
+    → Aníbal Moreno (score: 64.0)
+
+Paulinho Paula (Sport Club Internacional)
+    → Patrick de Paula (score: 60.0)
+
+Bruno Xavier (Esporte Clube Vitória)
+    → Samuel Xavier (score: 64.0)
+
+Enzo Díaz (São Paulo Futebol Clube)
+    → Lautaro Díaz (score: 58.5)
+
+Igor Vinícius (Santos Futebol Clube)
+    → Igor Vinícius de Souza (score: 90.0)
+    → Caio Vinícius (score: 76.9)
+    → Eduardo Vinícius (score: 72.4)
+
+Baralhas (Esporte Clube Vitória)
+    → Gabriel Baralhas (score: 90.0)
+
+Chico da Costa (Cruzeiro Esporte Clube)
+    → Diego Costa (score: 64.0)
+    → Douglas Costa (score: 59.3)
+
+Eduardo (Red Bull Bragantino)
+    → Carlos Eduardo (score: 90.0)
+    → Eduardo Melo (score: 90.0)
+    → Eduardo Santos (score: 90.0)
+
+Praxedes (Red Bull Bragantino)
+    → Bruno Praxedes (score: 90.0)
+
+Luan (São Paulo Futebol Clube)
+    → Luan Cândido (score: 90.0)
+    → Luan Garcia (score: 90.0)
+    → Luan Silva (score: 90.0)
+
+Willian Machado (Mirasol Futebol Clube)
+    → Machado (score: 90.0)
+    → João Machado Cruz (score: 60.5)
+
+Lucas Oliveira (Mirasol Futebol Clube)
+    → Cauly Oliveira Souza (score: 69.1)
+
+Pedro Augusto (Fortaleza Esporte Clube)
+    → Renato Augusto (score: 74.1)
+    → Filipe Augusto (score: 66.7)
+    → Yarlen Augusto (score: 66.7)
+
+Gustavo Coutinho (Sport Club do Recife)
+    → Philippe Coutinho (score: 63.3)
+
+Alex (Santos Futebol Clube)
+    → Alex Sandro (score: 90.0)
+    → Alex Santana (score: 90.0)
+    → Alex Teixeira (score: 90.0)
+
+Gustavo Silva (Esporte Clube Vitória)
+    → José Vitor Silva Neves (score: 85.5)
+    → Luan Silva (score: 69.6)
+    → Lucas Silva (score: 66.7)
+
+Fabri (Esporte Clube Vitória)
+    → Fabricio Bustos (score: 90.0)
+    → Fabrizio Peralta (score: 90.0)
+
+José Aldo (Mirasol Futebol Clube)
+    → Zé Ivaldo (score: 55.6)
+    → Osvaldo (score: 50.0)
+    → Ronaldo (score: 50.0)
+
+Dênis Júnior (Esporte Clube Bahia)
+    → Júnior Alonso (score: 68.4)
+    → Júnior Santos (score: 68.4)
+
+Alexander (Club de Regatas Vasco da Gama)
+    → Alexander Aravena (score: 90.0)
+    → Alexander Barboza (score: 90.0)
+
+Wagner Leonardo (Grêmio Foot-Ball Porto Alegrense)
+    → Leonardo Realpe (score: 69.7)
+    → Leonardo Godoy (score: 69.1)
+    → Leonardo Linck (score: 69.1)
+
+Luan Freitas (Esporte Clube Juventude)
+    → Lucas Freitas (score: 88.0)
+    → Marlon Freitas (score: 76.9)
+    → Gonzalo Freitas (score: 70.0)
+
+Guilherme Lopes (Red Bull Bragantino)
+    → Bruno Lopes (score: 59.4)
+
+Lucas Lima (Ceará Sporting Club)
+    → Lima (score: 90.0)
+    → Julimar (score: 47.1)
+
+Patrick de Lucca (Club de Regatas Vasco da Gama)
+    → Lucca Holanda (score: 52.8)
+    → Lucca Drummond (score: 50.7)
+
+Emiliano Martínez (Sociedade Esportiva Palmeiras)
+    → Leandro Emmanuel Martínez (score: 67.9)
+    → José Andrés Martínez (score: 60.8)
+
+Marco Antônio (Esporte Clube Vitória)
+    → Marcos Antônio (score: 96.3)
+
+Guzmán Rodríguez (Red Bull Bragantino)
+    → José Luis Rodríguez Bebanz (score: 85.5)
+    → Emerson Rodríguez (score: 72.7)
+    → Luciano Rodríguez (score: 72.7)
+
+Adriano (Sport Club do Recife)
+    → Adriano Martins (score: 90.0)
+    → Luiz Adriano (score: 90.0)
+
+Kelvi Gomes (Esporte Clube Juventude)
+    → William Gomes (score: 66.7)
+    → Igor Gomes (score: 63.3)
+    → Bruno Gomes (score: 59.4)
+
+Gabriel Xavier (Esporte Clube Bahia)
+    → Samuel Xavier (score: 74.1)
+
+Léo Linck (S. A. F. Botafogo)
+    → Leonardo Linck (score: 85.5)
+
+Gabriel Lacerda (Ceará Sporting Club)
+    → Derik Lacerda (score: 71.4)
+
+Renato Santos (Sport Club Corinthians Paulista)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+Gustavo Maia (Sport Club do Recife)
+    → Caio Maia (score: 66.7)
+    → Pablo Maia (score: 63.6)
+    → Thiago Maia (score: 60.9)
+
+Fabrício Daniel (Mirasol Futebol Clube)
+    → Daniel Jr (score: 85.5)
+    → Daniel Sales (score: 63.3)
+    → Danielzinho (score: 58.5)
+
+Léo Rafael (Ceará Sporting Club)
+    → Rafael (score: 90.0)
+    → Zé Rafael (score: 84.2)
+    → Rafael Borré (score: 71.2)
+
+Danilo (S. A. F. Botafogo)
+    → Danilo Barbosa (score: 90.0)
+    → Danilo Boza (score: 90.0)
+    → Danilo Fernandes (score: 90.0)
+
+Elias Manoel (S. A. F. Botafogo)
+    → Manoel (score: 90.0)
+
+Zé Vitor (Esporte Clube Vitória)
+    → José Vitor Silva Neves (score: 85.5)
+    → Vitor Hugo Amorim (score: 85.5)
+    → Paulo Vitor (score: 73.1)
+
+Victor Gabriel (Sport Club Internacional)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Zé Gabriel (score: 78.2)
+
+Luiz Filipe (Mirasol Futebol Clube)
+    → Filipe Augusto (score: 67.1)
+
+Leandro Mathias (São Paulo Futebol Clube)
+    → Ricardo Mathias (score: 73.3)
+
+Mateus Carvalho (Club de Regatas Vasco da Gama)
+    → Gabriel Carvalho (score: 71.0)
+
+Da Silva (Mirasol Futebol Clube)
+    → José Vitor Silva Neves (score: 85.5)
+    → Rafael Silva (score: 85.5)
+    → Thiago Silva (score: 85.5)
+
+Renzo (Sport Club do Recife)
+    → Renzo Saravia (score: 90.0)
+
+Pedro Martins (Sport Club do Recife)
+    → Gustavo Martins Santos (score: 85.5)
+    → Mateus Gonçalves Martins (score: 85.5)
+    → Adriano Martins (score: 78.6)
+
+Rodrigo Santos (Fortaleza Esporte Clube)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+Mateus Silva (Esporte Clube Vitória)
+    → José Vitor Silva Neves (score: 85.5)
+    → Lucas Silva (score: 69.6)
+    → Rafael Silva (score: 66.7)
+
+Alix (Red Bull Bragantino)
+    → Alix Vinicius (score: 90.0)
+
+Gustavo Ramalho (Fluminense Football Club)
+    → André Ramalho (score: 66.5)
+
+Lacerda (Mirasol Futebol Clube)
+    → Derik Lacerda (score: 90.0)
+
+Lucas André (Sport Club do Recife)
+    → André (score: 90.0)
+    → André Luis (score: 81.4)
+    → André Silva (score: 60.5)
+
+Erick Pulga (Esporte Clube Bahia)
+    → Erick Pulgar (score: 95.7)
+
+Andrés Gómez (Club de Regatas Vasco da Gama)
+    → Gustavo Gómez (score: 56.0)
+
+Kaique Pereira (Sociedade Esportiva Palmeiras)
+    → Léo Pereira (score: 73.9)
+    → Matheus Pereira (score: 69.0)
+
+Rwan Cruz (S. A. F. Botafogo)
+    → João Machado Cruz (score: 85.5)
+    → Nicolás De La Cruz (score: 85.5)
+    → Alejo Cruz (score: 58.5)
+
+Gustavo Marques (Red Bull Bragantino)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+Marcos Paulo (Esporte Clube Juventude)
+    → Paulo Vitor (score: 59.4)
+    → Paulo Henrique (score: 55.9)
+
+Rodrigo Castillo (Fluminense Football Club)
+    → Erick Castillo (score: 73.3)
+
+Everton Moraes (Esporte Clube Bahia)
+    → Reynaldo Cesar Moraes (score: 85.5)
+
+Otávio Costa (Cruzeiro Esporte Clube)
+    → Diego Costa (score: 69.6)
+    → Douglas Costa (score: 56.0)
+
+Cristian Renato (Mirasol Futebol Clube)
+    → Renato Kayser (score: 60.0)
+    → Renato Augusto (score: 59.0)
+
+César Rodrigues (Sociedade Esportiva Palmeiras)
+    → Arthur Rodrigues (score: 71.2)
+
+Figueiredo (Sociedade Esportiva Palmeiras)
+    → Tobias Figueiredo (score: 90.0)
+
+Vitor Gabriel (Clube Atlético Mineiro)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Zé Gabriel (score: 78.2)
+
+Phillipe Gabriel (Club de Regatas Vasco da Gama)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Zé Gabriel (score: 85.5)
+
+Felipe Longo (Sport Club Corinthians Paulista)
+    → Santiago Longo (score: 55.9)
+
+Caio Garcia (Clube de Regatas do Flamengo)
+    → Luan Garcia (score: 72.7)
+
+André Henrique (Grêmio Foot-Ball Porto Alegrense)
+    → Henrique (score: 90.0)
+    → Pedro Henrique (score: 78.6)
+    → Luiz Henrique (score: 72.4)
+
+Pedro Andrade (São Paulo Futebol Clube)
+    → Rodrigo Andrade (score: 78.6)
+    → Kervin Andrade (score: 74.1)
+
+Zé Henrique (Esporte Clube Juventude)
+    → Henrique (score: 95.0)
+    → Bruno Henrique (score: 80.0)
+    → Gustavo Henrique (score: 80.0)
+
+Roger Gabriel (Esporte Clube Bahia)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Zé Gabriel (score: 78.2)
+
+Wesley Santos (Mirasol Futebol Clube)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+Rafael Freitas (Santos Futebol Clube)
+    → Marlon Freitas (score: 71.4)
+    → Gonzalo Freitas (score: 69.0)
+    → Lucas Freitas (score: 66.7)
+
+Dyogo Alves (Clube de Regatas do Flamengo)
+    → Bruno Fabiano Alves (score: 85.5)
+    → Jean Carlos Alves Ferreira (score: 85.5)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+
+Patrick (Clube Atlético Mineiro)
+    → Alan Patrick (score: 90.0)
+    → Patrick de Paula (score: 90.0)
+
+Eric Santos (Esporte Clube Bahia)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+Rafael Soares (Esporte Clube Bahia)
+    → Fábio Soares (score: 63.3)
+    → Everton Soares (score: 60.0)
+    → Tiquinho Soares (score: 60.0)
+
+Kauã Davi (Esporte Clube Bahia)
+    → David (score: 80.0)
+    → David Luiz (score: 60.0)
+    → Davi Goes (score: 58.5)
+
+Wesley Costa (Grêmio Foot-Ball Porto Alegrense)
+    → Diego Costa (score: 60.9)
+    → Douglas Costa (score: 56.0)
+
+Jonathan Jesus (Cruzeiro Esporte Clube)
+    → Caíque de Jesus Gonçalves (score: 85.5)
+    → Igor Jesus (score: 63.3)
+
+Gabriel Silva (Ceará Sporting Club)
+    → José Vitor Silva Neves (score: 85.5)
+    → Rafael Silva (score: 72.0)
+    → Luan Silva (score: 63.3)
+
+Bruno Alves (Cruzeiro Esporte Clube)
+    → Bruno Fabiano Alves (score: 85.5)
+    → Jean Carlos Alves Ferreira (score: 85.5)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+
+Allan Vitor (Club de Regatas Vasco da Gama)
+    → José Vitor Silva Neves (score: 85.5)
+    → Vitor Hugo Amorim (score: 85.5)
+    → Rayan Vitor (score: 72.7)
+
+GB (Club de Regatas Vasco da Gama)
+    → Cleiton Schwengber (score: 0.0)
+
+Cauan Barros (Club de Regatas Vasco da Gama)
+    → Gabriel Barros (score: 63.3)
+
+Lucas Eduardo (Club de Regatas Vasco da Gama)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+    → Carlos Eduardo (score: 74.1)
+    → Eduardo Sasha (score: 73.1)
+
+Gustavo Reis (Red Bull Bragantino)
+    → Vitor Reis (score: 63.6)
+
+Fernando Costa (Red Bull Bragantino)
+    → Diego Costa (score: 64.0)
+    → Douglas Costa (score: 52.8)
+
+Gustavo Neves (Red Bull Bragantino)
+    → José Vitor Silva Neves (score: 85.5)
+    → Pedro Rocha Neves (score: 52.8)
+
+Thiago Henrique (Fluminense Football Club)
+    → Henrique (score: 90.0)
+    → Paulo Henrique (score: 75.9)
+    → Luiz Henrique (score: 72.4)
+
+Dudu Cruz (Clube Atlético Mineiro)
+    → João Machado Cruz (score: 85.5)
+    → Nicolás De La Cruz (score: 85.5)
+    → Alejo Cruz (score: 58.5)
+
+Marcão (Fluminense Football Club)
+    → Dé Marcão (score: 90.0)
+
+Vitinho Mota (Red Bull Bragantino)
+    → Jean Mota (score: 58.5)
+
+Rhuan Gabriel (Cruzeiro Esporte Clube)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Zé Gabriel (score: 78.2)
+
+Zé Breno (Esporte Clube Vitória)
+    → Breno (score: 90.0)
+    → José Breno (score: 77.8)
+
+Vitor Neves (Sport Club do Recife)
+    → José Vitor Silva Neves (score: 85.5)
+    → Pedro Rocha Neves (score: 85.5)
+
+Roger Ruan (Esporte Clube Bahia)
+    → Ruan (score: 90.0)
+    → Ruan Pablo (score: 57.0)
+
+Yan (Sport Club Internacional)
+    → Yan Souto (score: 90.0)
+    → Yannick Bolasie (score: 90.0)
+    → Ryan Francisco (score: 68.4)
+
+Rhuan Lucas (S. A. F. Botafogo)
+    → Lucas Evangelista (score: 85.5)
+    → Jean Lucas (score: 76.2)
+    → Lucas Moura (score: 69.1)
+
+David Kauã (Clube Atlético Mineiro)
+    → Kauã Elias (score: 57.0)
+
+Hugo Leonardo (São Paulo Futebol Clube)
+    → Leonardo Godoy (score: 72.4)
+    → Leonardo Linck (score: 72.4)
+    → Leonardo Realpe (score: 72.4)
+
+Deivid Andrade (Ceará Sporting Club)
+    → Kervin Andrade (score: 78.6)
+    → Rodrigo Andrade (score: 63.3)
+
+Samuel (Esporte Clube Bahia)
+    → Samuel Xavier (score: 90.0)
+
+Gabriel Rocha (Ceará Sporting Club)
+    → Kaique Rocha (score: 72.0)
+    → Marcos Rocha (score: 64.0)
+    → Pedro Rocha Neves (score: 52.8)
+
+Luiz Eduardo (Sport Club Corinthians Paulista)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+    → Carlos Eduardo (score: 70.0)
+    → Eduardo Melo (score: 70.0)
+
+Wesley Juan (Clube de Regatas do Flamengo)
+    → Juan Ignacio Dinenno (score: 85.5)
+    → Juan Martín Lucero (score: 85.5)
+    → Juan Pablo (score: 54.3)
+
+Eric (Ceará Sporting Club)
+    → Eric Ramires (score: 90.0)
+    → Erick Castillo (score: 90.0)
+    → Erick Marcus (score: 90.0)
+
+Fabricio Dias (Fortaleza Esporte Clube)
+    → Matheus Dias (score: 48.0)
+
+Victor (Esporte Clube Bahia)
+    → João Victor (score: 90.0)
+    → Marcos Victor (score: 90.0)
+    → Victor Hugo (score: 90.0)
+
+Juninho (Esporte Clube Bahia)
+    → Juninho Capixaba (score: 90.0)
+
+Sidney Duarte (Esporte Clube Bahia)
+    → David Duarte (score: 72.0)
+
+Jhoan Hernández (S. A. F. Botafogo)
+    → Diego Hernández (score: 73.3)
+
+João Andrade (Esporte Clube Bahia)
+    → Rodrigo Andrade (score: 74.1)
+    → Kervin Andrade (score: 70.0)
+
+Arthur Gabriel (Sociedade Esportiva Palmeiras)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Zé Gabriel (score: 78.2)
+
+Samuel (Clube Atlético Mineiro)
+    → Samuel Xavier (score: 90.0)
+
+Kauê Leonardo (S. A. F. Botafogo)
+    → Leonardo Godoy (score: 72.4)
+    → Leonardo Linck (score: 72.4)
+    → Leonardo Realpe (score: 72.4)
+
+Matheus Reis (Fluminense Football Club)
+    → Vitor Reis (score: 54.5)
+
+Kauan Guilherme (Clube Atlético Mineiro)
+    → Guilherme (score: 90.0)
+    → Zé Guilherme (score: 81.4)
+    → Guilherme Madruga (score: 77.2)
+
+Patrick (Sport Club do Recife)
+    → Alan Patrick (score: 90.0)
+    → Patrick de Paula (score: 90.0)
+
+Enzo (Grêmio Foot-Ball Porto Alegrense)
+    → Renzo Saravia (score: 67.5)
+
+Leonan Santos (Mirasol Futebol Clube)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+João Souza (Clube de Regatas do Flamengo)
+    → Cauly Oliveira Souza (score: 85.5)
+    → Igor Vinícius de Souza (score: 85.5)
+    → Hugo Souza (score: 70.0)
+
+Cristiano Junior (S. A. F. Botafogo)
+    → Sergio Antonio De Luiz Junior (score: 85.5)
+
+Nathan Borges (Grêmio Foot-Ball Porto Alegrense)
+    → Marllon Borges (score: 66.7)
+    → Pedro Borges (score: 63.3)
+
+Davi Melo (Fluminense Football Club)
+    → Felipe Melo (score: 60.0)
+    → Eduardo Melo (score: 58.5)
+
+Guilherme Reis (São Paulo Futebol Clube)
+    → Vitor Reis (score: 58.3)
+
+Mateus Xavier (Santos Futebol Clube)
+    → Samuel Xavier (score: 69.2)
+
+João Rafael (Clube Atlético Mineiro)
+    → Rafael (score: 90.0)
+    → Zé Rafael (score: 76.0)
+    → Rafael Ratão (score: 74.3)
+
+Maykon Jesus (Esporte Clube Vitória)
+    → Caíque de Jesus Gonçalves (score: 85.5)
+    → Igor Jesus (score: 63.6)
+
+Daniel Costa (Esporte Clube Bahia)
+    → Diego Costa (score: 78.3)
+    → Douglas Costa (score: 64.0)
+
+Douglas Telles (Clube de Regatas do Flamengo)
+    → Alex Telles (score: 67.1)
+
+Rafael Coutinho (Sociedade Esportiva Palmeiras)
+    → Philippe Coutinho (score: 66.1)
+
+Davi Gomes (Red Bull Bragantino)
+    → Bruno Gomes (score: 63.3)
+    → Igor Gomes (score: 63.3)
+    → William Gomes (score: 63.3)
+
+Lucas Daniel (Clube Atlético Mineiro)
+    → Daniel Jr (score: 76.0)
+    → Daniel Sales (score: 71.2)
+    → Danielzinho (score: 52.2)
+
+Davi (Sport Club do Recife)
+    → Davi Goes (score: 90.0)
+    → David Duarte (score: 90.0)
+    → David Luiz (score: 90.0)
+
+Breno Santos (Sport Club do Recife)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+João Alves (Clube de Regatas do Flamengo)
+    → Bruno Fabiano Alves (score: 85.5)
+    → Jean Carlos Alves Ferreira (score: 85.5)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+
+Cauê Nascimento (Red Bull Bragantino)
+    → Matheus Nascimento (score: 78.8)
+
+Andrei (Esporte Clube Vitória)
+    → Jandrei (score: 76.9)
+
+Davi Barbosa (Esporte Clube Vitória)
+    → Danilo Barbosa (score: 84.6)
+    → Diogo Barbosa (score: 80.0)
+    → Gabriel Barbosa (score: 74.1)
+
+Marlon Santos (Esporte Clube Juventude)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+
+Pedro Cruz (Esporte Clube Bahia)
+    → João Machado Cruz (score: 85.5)
+    → Nicolás De La Cruz (score: 85.5)
+    → Alejo Cruz (score: 70.0)
+
+Guilherme Gomes (Clube de Regatas do Flamengo)
+    → Igor Gomes (score: 85.5)
+    → William Gomes (score: 64.3)
+    → Bruno Gomes (score: 59.4)
+
+Kauan Lima (Sociedade Esportiva Palmeiras)
+    → Lima (score: 90.0)
+    → Julimar (score: 47.1)
+
+Bruno (Clube de Regatas do Flamengo)
+    → Bruno Fabiano Alves (score: 90.0)
+    → Bruno Fuchs (score: 90.0)
+    → Bruno Gomes (score: 90.0)
+
+Román Gómez (Esporte Clube Bahia)
+    → Gustavo Gómez (score: 59.4)
+
+Pedro Kauã (Sport Club Internacional)
+    → Kauã Elias (score: 54.3)
+
+Pedro Gabriel (Grêmio Foot-Ball Porto Alegrense)
+    → Gabriel (score: 90.0)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+    → Gabriel Veron (score: 80.4)
+
+Fernando Vera (Sport Club Corinthians Paulista)
+    → Fausto Vera (score: 66.7)
+    → Everaldo (score: 56.2)
+    → Everaldo Stum (score: 46.2)
+
+Fredi Gomes (Esporte Clube Bahia)
+    → Igor Gomes (score: 66.7)
+    → Bruno Gomes (score: 63.6)
+    → William Gomes (score: 59.4)
+
+David Martins (Esporte Clube Bahia)
+    → Gustavo Martins Santos (score: 85.5)
+    → Mateus Gonçalves Martins (score: 85.5)
+    → Adriano Martins (score: 66.5)
+
+Bernardo Jacob (Sport Club Internacional)
+    → Jacob Montes (score: 55.9)
+
+Luis Eduardo (Esporte Clube Vitória)
+    → Luis Eduardo Marques dos Santos (score: 90.0)
+    → Carlos Eduardo (score: 70.0)
+    → Eduardo Melo (score: 70.0)
+
+Ryan Felipe (Clube Atlético Mineiro)
+    → Felipe Jonatan (score: 68.4)
+    → Felipe Anderson (score: 67.1)
+    → Felipe Carballo (score: 67.1)
+
+Kaique Pereira (S. A. F. Botafogo)
+    → Léo Pereira (score: 73.9)
+    → Matheus Pereira (score: 69.0)
+
+Luis Pacheco (Sociedade Esportiva Palmeiras)
+    → Bruno Pacheco (score: 72.0)
+
+Lucca (São Paulo Futebol Clube)
+    → Lucca Drummond (score: 90.0)
+    → Lucca Holanda (score: 90.0)
+
+Kaio (Fluminense Football Club)
+    → Kaio Jorge (score: 90.0)
+
+Rafael Vargas (Clube de Regatas do Flamengo)
+    → Eduardo Vargas (score: 60.0)
+
+Pedro Oliveira (Clube Atlético Mineiro)
+    → Cauly Oliveira Souza (score: 69.1)
+
+Wallace Davi (S. A. F. Botafogo)
+    → David (score: 80.0)
+    → Davi Goes (score: 58.5)
+    → David Duarte (score: 55.4)
+
+Ryan Augusto (Red Bull Bragantino)
+    → Renato Augusto (score: 76.9)
+    → Yarlen Augusto (score: 76.9)
+    → Filipe Augusto (score: 70.0)
+
+Eduardo (Fortaleza Esporte Clube)
+    → Carlos Eduardo (score: 90.0)
+    → Eduardo Melo (score: 90.0)
+    → Eduardo Santos (score: 90.0)
+
+Bruno André (Club de Regatas Vasco da Gama)
+    → André (score: 90.0)
+    → André Luis (score: 63.3)
+    → André Carrillo (score: 60.8)
+
+Pedro Augusto (Club de Regatas Vasco da Gama)
+    → Renato Augusto (score: 74.1)
+    → Filipe Augusto (score: 66.7)
+    → Yarlen Augusto (score: 66.7)
+
+Luis Eduardo (Grêmio Foot-Ball Porto Alegrense)
+    → Luis Eduardo Marques dos Santos (score: 90.0)
+    → Carlos Eduardo (score: 70.0)
+    → Eduardo Melo (score: 70.0)
+
+Keven Samuel (Fluminense Football Club)
+    → Samuel Xavier (score: 68.4)
+
+Robinho Junior (Santos Futebol Clube)
+    → Sergio Antonio De Luiz Junior (score: 85.5)
+
+Guilherme Soares (Esporte Clube Bahia)
+    → Tiquinho Soares (score: 64.5)
+    → Fábio Soares (score: 63.3)
+    → Everton Soares (score: 60.0)
+
+Daniel Lima (Esporte Clube Bahia)
+    → Lima (score: 90.0)
+    → Julimar (score: 55.4)
+
+Lucas Vieira (Clube de Regatas do Flamengo)
+    → Dudu Vieira (score: 69.6)
+    → Felipe Vieira (score: 63.3)
+
+Wanderson Jr (Clube de Regatas do Flamengo)
+    → Daniel Jr (score: 57.1)
+
+Ramires (Mirasol Futebol Clube)
+    → Eric Ramires (score: 90.0)
+
+Léo Araújo (Club de Regatas Vasco da Gama)
+    → Luiz Araújo (score: 76.2)
+    → Matheus Araújo (score: 71.2)
+
+Andrey Fernandes (Club de Regatas Vasco da Gama)
+    → Lucas Fernandes (score: 71.2)
+    → Danilo Fernandes (score: 68.8)
+    → Nathan Fernandes (score: 68.8)
+
+Gabriel Soares (Club de Regatas Vasco da Gama)
+    → Fábio Soares (score: 69.2)
+    → Everton Soares (score: 57.1)
+    → Tiquinho Soares (score: 57.0)
+
+Guilherme Santos (Clube de Regatas do Flamengo)
+    → Allyson Aires dos Santos (score: 85.5)
+    → Luis Eduardo Marques dos Santos (score: 85.5)
+    → Tevis Gabriel Alves Santos (score: 85.5)
+
+Rodrigo Gomes (Fluminense Football Club)
+    → Igor Gomes (score: 69.6)
+    → Bruno Gomes (score: 66.7)
+    → William Gomes (score: 53.8)
+
+Oliver Martins (Fluminense Football Club)
+    → Gustavo Martins Santos (score: 85.5)
+    → Mateus Gonçalves Martins (score: 85.5)
+    → Adriano Martins (score: 63.3)
+
+Lucas Felipe (Fluminense Football Club)
+    → Luiz Felipe (score: 78.3)
+    → Marcos Felipe (score: 72.0)
+    → Felipe Melo (score: 67.1)
+
+Cauã Soares (Clube Atlético Mineiro)
+    → Everton Soares (score: 67.1)
+    → Fábio Soares (score: 67.1)
+    → Tiquinho Soares (score: 67.1)
+
+Caio Wesley (Fortaleza Esporte Clube)
+    → Wesley (score: 90.0)
+    → Wesley Gasolina (score: 67.1)
+
+Zé Lucas (Sport Club do Recife)
+    → Ayrton Lucas (score: 85.5)
+    → Lucas Alario (score: 85.5)
+    → Lucas Arcanjo (score: 85.5)
+
+Gabriel Henrique (Sport Club do Recife)
+    → Henrique (score: 90.0)
+    → Paulo Henrique (score: 73.3)
+    → Luiz Henrique (score: 72.4)
+
+Kauã (Sport Club do Recife)
+    → Kauã Elias (score: 90.0)
+
+Eric Soares (Clube Atlético Mineiro)
+    → Everton Soares (score: 72.0)
+    → Fábio Soares (score: 69.6)
+    → Tiquinho Soares (score: 67.1)
+
+Guilherme Gama (Sport Club Corinthians Paulista)
+    → Léo Gamalho (score: 45.6)
+    → Mateo Gamarra (score: 44.4)
+
+João Vitor (Sport Club Corinthians Paulista)
+    → José Vitor Silva Neves (score: 85.5)
+    → Vitor Hugo Amorim (score: 85.5)
+    → Paulo Vitor (score: 66.7)
+
+Luís Gustavo (Clube Atlético Mineiro)
+    → Gustavo (score: 90.0)
+    → Gustavo Campanharo (score: 85.5)
+    → Gustavo Martins Santos (score: 85.5)
+
+Kauã Moraes (Cruzeiro Esporte Clube)
+    → Reynaldo Cesar Moraes (score: 85.5)
+
+Yago Melo (Clube de Regatas do Flamengo)
+    → Eduardo Melo (score: 66.7)
+    → Felipe Melo (score: 58.5)
+
+Gustavo Santana (Esporte Clube Bahia)
+    → Alex Santana (score: 70.0)
+
+Cléber Lucas (S. A. F. Botafogo)
+    → Lucas Calegari (score: 73.1)
+    → Lucas Halter (score: 71.2)
+    → Lucas Kal (score: 67.9)
+
+Lyan Araujo (Esporte Clube Bahia)
+    → Michel Araujo (score: 67.1)
+
+Mosquito (Clube Atlético Mineiro)
+    → Gustavo Mosquito (score: 90.0)
+
+Kauan Vitor (Esporte Clube Vitória)
+    → José Vitor Silva Neves (score: 85.5)
+    → Vitor Hugo Amorim (score: 85.5)
+    → Rayan Vitor (score: 81.8)
+
+Gui Amorim (Sport Club Corinthians Paulista)
+    → Vitor Hugo Amorim (score: 85.5)
+
